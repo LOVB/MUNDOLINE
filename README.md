@@ -1,12 +1,10 @@
-THEME: Law - Free Bootstrap 4 Theme
-AUTHOR: ProBootstrap.com
+#THEME: MUNDOLINE (Basado en LAW de probootstrap)
+
+AUTHOR: LOVB
+
 LICENSE: Under Creative Commons 3.0 (probootstrap.com/license)
-AUTHOR URI: https://probootstrap.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
 
-
-CREDITS:
+CREDITOS:
 
 Bootstrap
 http://getbootstrap.com/
