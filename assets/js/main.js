@@ -211,9 +211,5 @@ $(document).ready(function($) {
 	}
 	ytpPlayer();
 
-
-	
-
-
 });
 
