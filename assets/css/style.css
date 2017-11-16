@@ -19,8 +19,12 @@ p{
 i{
   color:#868e96;
 }
-.list-inline-item .fa{
+footer .list-inline-item .ion{
+  font-size: 1.2em;
   color: #1d82ff;
+}
+footer .list-inline-item .ion:hover{
+  color:#868e96;
 }
 #section-practicing-areas{
   padding-bottom: 5em;
