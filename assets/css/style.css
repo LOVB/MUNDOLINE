@@ -27,6 +27,10 @@ footer .list-inline-item .ion:hover{
   background-size: contain;
 }
 
+.navbar-brand{
+  width: 12em;
+}
+
 /*##########################*/
 .mouse-wrap, .scroll-wrap {
   position: absolute;
