@@ -43,8 +43,7 @@ if(isset($response_recaptcha)&& $response_recaptcha){
     }
 
   }else{
-    //header("location:404.html");
-    echo "Error en el formulario. Dede de marcar la casilla de verificación. Vuelva a intentarlo";
+    header("location:404.html");
   }
 
 ?>
